@@ -1,4 +1,4 @@
-"""Calculadora com interface gráfica (tkinter).
+"""Calculadora com interface gráfica.
 
 Aceita expressões completas e números negativos, por exemplo:
     100 - 200      ->  -100
